@@ -1,8 +1,6 @@
 "use client";
 
 import { ConnectButton } from "@rainbow-me/rainbowkit";
-import Link from "next/link";
-import { CgProfile } from 'react-icons/cg';
 
 
 export function NavBar() {
